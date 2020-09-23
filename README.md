@@ -2,12 +2,12 @@
 For the purpose of Machine Learning, the dataset needs to be split into Train &amp; Test data (manually at times). The repository has a small code snippet (in both Python &amp; Golang) that splits it automatically in the ratio 80% to 20%.
 
 ### Usage :+1:
-#### In Python :snake:
+#### In Python
 ```
 python split_dataset.py "Full/Path/To/File/Here"
 ```
 
-#### In Go :hedgehog:
+#### In Go
 ```
 go run split_dataset.go "Full/Path/To/File/Here"
 ```
